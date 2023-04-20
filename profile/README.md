@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-We're Circel. An Organization that will help you reach our frontend dreams.
+We're Circel. An Organization that will help you reach your frontend dreams.
 Checkout our website @ [Circel.co](https://circel.co)
 
 ### Current Members:
@@ -14,7 +14,7 @@ Checkout our website @ [Circel.co](https://circel.co)
 
 ### UniUX
 
-UniUX, A React libraryto create powerful and beautiful  web apps.
+UniUX, A React library to create powerful and beautiful web apps.
 
 Check out UniUX @ [Circel.co/dessign](https://circel.co/design)
 
